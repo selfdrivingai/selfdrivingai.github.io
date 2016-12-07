@@ -71,9 +71,9 @@ heroButtons:
 # About Block
 aboutTitle: "<h3>About the meetup</h3>"
 aboutBlock:
- - {title: "Self-driving intelligence", image: "conference.jpg", text: "" }
- - {title: "Open-source community", image: "workshop.jpg", text: "" }
- - {title: "Attend and be inspired", image: "hackathon.jpg", text: "" }
+ - {title: "Self-driving intelligence", image: "conference.jpg", text: "Explore and discuss state-of-the-art research in order to accelerate Machine Learning for Autonomous Driving." }
+ - {title: "Open minded community", image: "workshop.jpg", text: "Create an open minded community for self-driving car researchers." }
+ - {title: "Attend and be inspired", image: "hackathon.jpg", text: "We strive to engage researchers, engineers and decision makers in a constructive dialogue about self-driving technology, machine intelligence and its symbiosis." }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
@@ -155,9 +155,9 @@ footerBlocks:
 ideationTitle: "Machine Intelligence in Autonomous Driving"
 ideationOrganisationsTitle: ""
 organisationsRows:
- - {title: "<h5>Accelerate Self-Driving Research</h5>", image: "wheel.png", details: ""}
- - {title: "<h5>Open Source Knowledge</h5>", image: "color.png", details: "<em>Machine Intelligence in Autonomous Driving</em>, is evening event that strives to engage researchers, engineers and decision makers in a constructive dialogue about self-driving technology and machine intelligence."}
- - {title: "<h5>AI is the new Electricity</h5>", image: "bulb.png", details: ""}
+ - {title: "<h5>Accelerate Self-Driving Intelligence</h5>", image: "wheel.png", details: "Autonomous vehicles are one of the greatest challenges machine intelligence will face in this century. On the other hand, machine intelligence will help us to create safe and efficient next generation vehicles. We want to discuss state-of-the-art methods and techniques in order to accelerate research in machine learning for autonomous driving."}
+ - {title: "<h5>Open Minded and Open-Source Community</h5>", image: "color.png", details: "We want to create an open minded and open-source community for self-driving car researchers. In order to move forward, we firmly believe in exchanging our knowledge and connecting with the local community."}
+ - {title: "<h5>Attend and be inspired</h5>", image: "bulb.png", details: "<em>Machine Intelligence in Autonomous Driving</em>, is evening event that strives to engage researchers, engineers and decision makers in a constructive dialogue about self-driving technology, machine intelligence and its symbiosis."}
 
 # Blog
 blogTitle: "Latest news"
