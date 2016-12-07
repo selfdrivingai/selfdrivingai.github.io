@@ -1,4 +1,4 @@
 -
   group: ""
   elements:
-    - {name: "Mercedes-Benz", description: "", link: "http://mbrdna.com", imageUrl: "mercedes-benz.svg"}
+    - {name: "Mercedes-Benz", description: "", link: "http://www.mbrdna.com", imageUrl: "mercedes-benz.svg"}
