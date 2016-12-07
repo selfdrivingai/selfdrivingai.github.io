@@ -1,0 +1,12 @@
+<!-- Begin Ideation Summary-->
+<section id="ideation-summary" class="ideation-summary" style="padding-top:0px; padding-bottom:0px">
+    <div class="content-wrapper">
+        <div class="col-md-8 col-md-offset-2">
+            <h3>Art Gallery</h3>
+            {% for para in site.ideationSummary %}
+            <p class="text-left animated hiding" data-animation="fadeInUp" data-delay="0">{{ para.text }}</p>
+            {% endfor %}
+        </div>
+    </div>
+</section>
+<!-- End Ideation Summary -->

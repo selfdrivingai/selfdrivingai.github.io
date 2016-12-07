@@ -1,0 +1,11 @@
+-
+  date: "2016-01-30"
+  dateReadable: "Detailed schedule coming soon!"
+  tracks:
+    - {title: "Machine Intelligence in Autonomous Driving", color: "#90be4e"}
+  timeslots:
+    - {
+        startTime: "19:00",
+        endTime: "21:30",
+        sessionIds: [0]
+    }

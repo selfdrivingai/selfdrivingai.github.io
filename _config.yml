@@ -1,0 +1,200 @@
+# Plugins
+gems:
+- jekyll-sitemap
+safe: false
+
+# Build Settings
+markdown: kramdown
+permalink: pretty
+exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME', vendor]
+
+
+# Site Settings
+title: "Machine Intelligence in Autonomous Driving"
+email: ""
+description: "Machine Intelligence in Autonomous Driving"
+baseurl: ""
+url: "http://selfdrivingai.org"
+#permalink: "/blog/:title"
+
+# Organizer Info
+organizerName: "Machine Intelligence in Autonomous Driving"
+organizerAlternateName: ""
+organizerDescription: ""
+organizerEmail: ""
+organizerLogo: "/img/seo/organizer-logo.png"
+organizerLink: "https://www.mbrdna.com"
+
+# Head
+metaKeywords: "autonomous, selfdriving, machine, learning, ai"
+twitterAccount: "@selfdrivingai"
+addThisEvent: true
+socialImageSrcGooglePlus: "/img/sections-background/hero.jpg"
+socialImageSrcTwitter: "/img/sections-background/hero.jpg"
+socialImageSrcFacebook: "/img/sections-background/hero.jpg"
+
+##
+googleAnalyticsTrackingId: "UA-70245610-1"
+googleAnalyticsSiteUrl: "selfdrivingai.org"
+
+# Documents
+#c4pUrl: "https://bit.ly/dfua-c4p"
+#c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
+c4sponsorsUrl: "mailto: daviddao@daimler.com"
+seaturl: ""
+
+# Navigation
+navigationLinks:
+ - {permalink: "/", text: "Home"}
+ - {permalink: "/about/", text: "About the meetup"}
+
+ #- {permalink: "/blog/", text: "Blog"}
+ - {permalink: "/schedule/", text: "Schedule"}
+ # - {permalink: "/speakers/", text: "Speakers"}
+ # - {permalink: "/team/", text: "Team"}
+ # - {permalink: "/ideation/", text: "Art Gallery"}
+bottomNavigationLinks:
+ #- {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
+rightNavigationButtons:
+ #- {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
+
+# Hero Block
+heroImage: "hero.jpg"
+heroTitle: "<h4>Machine Intelligence in Autonomous Driving</h4> <br>"
+eventDate: "<h5>A Meetup hosted by Mercedes-Benz, Udacity and Otto</h5>"
+typeoutTextValues: '""'
+typeoutFallback: ""
+heroButtons:
+ - {link: "", text: "Coming soon!"}
+ #- {permalink: "/#tickets", text: "Buy tickets"}
+
+# About Block
+aboutTitle: "<h3>About the meetup</h3>"
+aboutBlock:
+ - {title: "Self-driving intelligence", image: "conference.jpg", text: "" }
+ - {title: "Open-source community", image: "workshop.jpg", text: "" }
+ - {title: "Attend and be inspired", image: "hackathon.jpg", text: "" }
+
+# Statistic Block
+statisticBlockImage: "statistic.jpg"
+statisticBlock:
+ - {count: "150", specialCharacter: "+", info: "self-driving enthusiasts", detail: "connect, engage and create together"}
+ - {count: "2", specialCharacter: "", info: "speakers", detail: "world-leading experts and pioneers"}
+ - {count: "1", specialCharacter: "", info: "evening", detail: "delve into one of the most exciting technologies of our time"}
+
+# Latest News Block (We dont need )
+latestNewsTitle: "Latest news"
+
+# Rockstar Speakers Block
+rockstarSpeakersImage: "rockstar-speakers.jpg"
+rockstarSpeakersCount: 1
+rockstarSpeakersTitle: "Our rockstar speakers"
+rockstarSpeakersButtonText: "See all speakers"
+
+# Location Block
+locationBlockTitle: "Location"
+eventLocationName: "Mercedes-Benz Research & Development North America"
+eventLocationLink: ""
+eventStreetAddress: "309 N Pastoria Ave"
+eventAddressLocality: "Sunnyvale, CA"
+eventAddressLocalityRegion: ""
+eventPostalCode: "94085"
+eventAddressCountry: "USA"
+eventStartTime: "2016-04-09T19:00"
+eventDoorTime: "9:15"
+eventEndTime: "2016-04-09T21:30"
+eventPlaceCoordinates: "37.3860986,-122.0364234"
+mapCenterCoordinates: "37.3860986,-122.0364234"
+mapMobileCenterCoordinates: "37.3860986,-122.0364234"
+
+# Venue Block
+venueBlockTitle: "Venue"
+venueBigImage: "venue_0.jpg"
+venueSmallImage1: "venue_1.jpg"
+venueSmallImage2: "venue_2.jpg"
+venueSmallImage3: "venue_3.jpg"
+venueTitle: "Mercedes-Benz Research & Development North America"
+venueFeatures: ["", "", ""]
+
+# Artist Block
+commonBigImage: "common1.jpg"
+commonSmallImage1: "common2.jpg"
+commonSmallImage2: "common3.jpg"
+commonSmallImage3: "common4.jpg"
+
+art1BigImage: "aron.jpg"
+art2BigImage: "bissane.jpg"
+art3BigImage: "joel.jpg"
+
+
+
+# Tweets Feed Block
+tweetsFeedImage: "twitter-feed.jpg"
+tweetsFeedTitle: "Tweet "
+twitterHashTag: "selfdrivingai"
+#twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
+
+# Partners Block
+organizersTitle: "Organizers"
+partnersTitle: "Partners"
+partnersC4sponsorsButton: "Become a Partner"
+
+# Footer
+socialLinks:
+footerBlocks:
+ -
+  title: ""
+  links:
+
+ # -
+ #  title: "FAQ"
+ #  links:
+ #   - {permalink: "/cod/", text: "Code of Conduct"}
+
+# Ideation
+ideationTitle: "Machine Intelligence in Autonomous Driving"
+ideationOrganisationsTitle: ""
+organisationsRows:
+ - {title: "<h5>Accelerate Self-Driving Research</h5>", image: "wheel.png", details: ""}
+ - {title: "<h5>Open Source Knowledge</h5>", image: "color.png", details: "<em>Machine Intelligence in Autonomous Driving</em>, is evening event that strives to engage researchers, engineers and decision makers in a constructive dialogue about self-driving technology and machine intelligence."}
+ - {title: "<h5>AI is the new Electricity</h5>", image: "bulb.png", details: ""}
+
+# Blog
+blogTitle: "Latest news"
+blogCommentsEnabled: true
+discusShortName: ""
+
+# Speakers List Block
+showSessions: true
+
+# Team Block
+teamBlockTitle: "Our Team"
+aboutUs: ""
+
+# Hackathon
+hackathonTitle: "Hackathon"
+enableHackathon: false
+
+# Hackathon About Block
+aboutHackathonTitle: "<h3>About the meetup</h3>"
+# Hackathon Judges Block (We dont need)
+judgesImage: "judges.jpg"
+judgesTitle: "Judges"
+
+# Hackathon Location Block (We dont need)
+hackathonLocationBlockTitle: "Location"
+hackathonLocationName: "Fakultät für Informatik"
+hackathonLocationLink: "http://tum.de/"
+hackathonStreetAddress: "Boltzmannstraße 3"
+hackathonAddressLocality: "Munich"
+hackathonAddressLocalityRegion: "Bavaria"
+hackathonPostalCode: "85748"
+hackathonAddressCountry: "Germany"
+hackathonTimeTitle: "Hack through"
+hackathonStartTime: "2014-10-24T10:00"
+hackathonDoorTime: "09:00"
+hackathonEndTime: "2014-10-25T00:00"
+viewOnMap: "View on Google Maps"
+hackathonPlaceCoordinates: "49.840999, 11.669776"
+hackathonMapCenterCoordinates: "49.840696, 24.028754"
+hackathonMapMobileCenterCoordinates: "49.841639, 24.031182"

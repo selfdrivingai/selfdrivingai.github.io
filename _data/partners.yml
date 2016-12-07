@@ -1,0 +1,6 @@
+- 
+  group: ""
+  elements: 
+    - {name: "Udacity", description: "", link: "http://udacity.com", imageUrl: "udacity.png"}
+    - {name: "Otto", description: "", link: "http:/ot.to.com" ,imageUrl: "otto.png"}
+   

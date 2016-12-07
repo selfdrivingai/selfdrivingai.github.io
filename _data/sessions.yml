@@ -1,0 +1,35 @@
+-
+  id: 104
+  title: "Closing Remarks"
+  description: ""
+  service: true
+-
+  id: 100
+  title: "Opening Keynote with Q&A"
+  description: ""
+  subtype: keynote
+  speakers: [1]
+-
+  id: 101
+  title: "Second Keynote with Q&A"
+  description: ""
+  subtype: keynote
+  speakers: [1]
+-
+  id: 0
+  title: "Awesome Event"
+  description: "Stay tuned!"
+  speakers: [1]
+  service: true
+-
+  id: 2
+  title: "Break"
+  description: "Food, refreshments and time to meet the Speakers."
+  speakers: 
+  service: true
+-
+  id: 1
+  title: "Introduction & Welcome"
+  description: "Let's get started and talk about NextGen Autonomous Vehicles!"
+  speakers: 
+  service: true
