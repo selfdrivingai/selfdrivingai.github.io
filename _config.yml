@@ -61,7 +61,7 @@ rightNavigationButtons:
 # Hero Block
 heroImage: "hero.jpg"
 heroTitle: "<h4>Machine Intelligence in Autonomous Driving</h4> <br>"
-eventDate: "<h5>A Meetup hosted by Mercedes-Benz, Udacity and Otto</h5>"
+eventDate: "<h5>A Meetup hosted by Mercedes-Benz, Udacity, Bosch and Otto</h5>"
 typeoutTextValues: '""'
 typeoutFallback: ""
 heroButtons:
