@@ -46,12 +46,11 @@ seaturl: ""
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Home"}
- - {permalink: "/about/", text: "About the meetup"}
-
  #- {permalink: "/blog/", text: "Blog"}
  - {permalink: "/schedule/", text: "Schedule"}
- # - {permalink: "/speakers/", text: "Speakers"}
- # - {permalink: "/team/", text: "Team"}
+ - {permalink: "/speakers/", text: "Speakers"}
+ - {permalink: "/about/", text: "About the meetup"}
+ #- {permalink: "/team/", text: "Team"}
  # - {permalink: "/ideation/", text: "Art Gallery"}
 bottomNavigationLinks:
  #- {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
@@ -61,11 +60,11 @@ rightNavigationButtons:
 # Hero Block
 heroImage: "hero.jpg"
 heroTitle: "<h4>Machine Intelligence in Autonomous Driving</h4> <br>"
-eventDate: "<h5>A Meetup hosted by Mercedes-Benz, Udacity, Bosch and Otto</h5>"
+eventDate: "<h5>A Meetup hosted by Mercedes-Benz, Udacity, Bosch and Otto</h5><br><h5>6th February 2017</h5>"
 typeoutTextValues: '""'
 typeoutFallback: ""
 heroButtons:
- - {link: "", text: "Coming soon!"}
+ - {link: "", text: "Registration opens soon!"}
  #- {permalink: "/#tickets", text: "Buy tickets"}
 
 # About Block
@@ -87,7 +86,7 @@ latestNewsTitle: "Latest news"
 
 # Rockstar Speakers Block
 rockstarSpeakersImage: "rockstar-speakers.jpg"
-rockstarSpeakersCount: 1
+rockstarSpeakersCount: 2
 rockstarSpeakersTitle: "Our rockstar speakers"
 rockstarSpeakersButtonText: "See all speakers"
 

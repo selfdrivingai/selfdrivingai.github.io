@@ -5,26 +5,26 @@
   service: true
 -
   id: 100
-  title: "Opening Keynote with Q&A"
+  title: "Automated, Connected, Electric Vehicles"
   description: ""
   subtype: keynote
   speakers: [1]
 -
-  id: 101
-  title: "Second Keynote with Q&A"
+  id: 200
+  title: "Robotic Interaction"
   description: ""
   subtype: keynote
-  speakers: [1]
--
-  id: 0
-  title: "Awesome Event"
-  description: "Stay tuned!"
-  speakers: [1]
-  service: true
+  speakers: [2]
 -
   id: 2
   title: "Break"
-  description: "Food, refreshments and time to meet the Speakers."
+  description: "Food, refreshments and time to meet the speakers and the cars."
+  speakers: 
+  service: true
+-
+  id: 3
+  title: "Showcase"
+  description: "Tesla, Otto and Mercedes are showing off their self-driving cars. Touching allowed."
   speakers: 
   service: true
 -

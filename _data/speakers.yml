@@ -1,15 +1,29 @@
 - 
   id: 1
-  name: "Self-driving"
-  surname: "Rockstar"
-  company: ""
-  thumbnailUrl: speaker1.jpg
+  name: "Jan"
+  surname: "Becker"
+  company: "Faraday Future"
+  title: "Senior Director Automated Driving"
+  thumbnailUrl: jan.jpg
   team: true
+  rockstar: true
   social: 
     - {name: "site", link: ""}
-  bio: "TBA"
+  bio: "Dr. Jan Becker is the Senior Director for Automated Driving at Faraday & Future, Inc. Before joining FF in 2016, Dr. Becker was Director Automated Driving at Robert Bosch LLC. He is appointed lecturer at Stanford University since 2010 and has more than 18 years of experience in the research and development of automated driving. Dr. Becker received his doctorate degree from Technical University of Braunschweig, Germany and master degrees from both the State University of New York and the Technical University of Darmstadt, Germany."
 - 
-  id: 102
+  id: 2
+  name: "Anca"
+  surname: "Dragan"
+  company: "UC Berkeley"
+  title: "Professor"
+  thumbnailUrl: anca.jpg
+  team: true
+  rockstar: true
+  social: 
+    - {name: "site", link: ""}
+  bio: "Anca runs the InterACT lab, focusing on enabling robots to work with, around, and in support of people. Her goal is for robots to autonomously generate their behavior in a way that moves beyond functionality and formally accounts for interaction with humans. This combines optimal control, machine learning, and cognitive science, with applications in collaborative manipulation and autonomous driving. Anca got her PhD in the Robotics Institute at Carnegie Mellon University on planning intent-expressive robot motion."
+- 
+  id: 100
   name: "David"
   surname: "Dao"
   company: ""
