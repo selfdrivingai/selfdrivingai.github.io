@@ -10,15 +10,15 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME', vendor]
 
 
 # Site Settings
-title: "Machine Intelligence in Autonomous Driving"
+title: "Machine Intelligence and Self-Driving Vehicles"
 email: ""
-description: "Machine Intelligence in Autonomous Driving"
+description: "Machine Intelligence and Self-Driving Vehicles"
 baseurl: ""
 url: "http://selfdrivingai.org"
 #permalink: "/blog/:title"
 
 # Organizer Info
-organizerName: "Machine Intelligence in Autonomous Driving"
+organizerName: "Machine Intelligence and Self-Driving Vehicles"
 organizerAlternateName: ""
 organizerDescription: ""
 organizerEmail: ""
@@ -49,7 +49,7 @@ navigationLinks:
  #- {permalink: "/blog/", text: "Blog"}
  - {permalink: "/schedule/", text: "Schedule"}
  - {permalink: "/speakers/", text: "Speakers"}
- - {permalink: "/about/", text: "About the meetup"}
+ #- {permalink: "/about/", text: "About the meetup"}
  #- {permalink: "/team/", text: "Team"}
  # - {permalink: "/ideation/", text: "Art Gallery"}
 bottomNavigationLinks:
@@ -59,8 +59,8 @@ rightNavigationButtons:
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "<h4>Machine Intelligence in Autonomous Driving</h4> <br>"
-eventDate: "<h5>A Meetup hosted by Mercedes-Benz, Bosch and Otto</h5><br><h5>6th February 2017</h5>"
+heroTitle: "<h4>Machine Intelligence and Self-Driving Vehicles</h4> <br>"
+eventDate: "<h5>A Meetup Series hosted by Mercedes-Benz, Bosch and Otto</h5><br><h5>6th February 2017 - 7pm</h5>"
 typeoutTextValues: '""'
 typeoutFallback: ""
 heroButtons:
@@ -70,8 +70,8 @@ heroButtons:
 # About Block
 aboutTitle: "<h3>About the meetup</h3>"
 aboutBlock:
- - {title: "Self-driving intelligence", image: "conference.jpg", text: "Explore and discuss state-of-the-art research in order to accelerate Machine Learning for Autonomous Driving." }
- - {title: "Open minded community", image: "workshop.jpg", text: "Create an open minded community for self-driving car researchers." }
+ - {title: "Self-driving intelligence", image: "conference.jpg", text: "Explore and discuss state-of-the-art research in order to accelerate Machine Learning for Self-Driving Vehicles." }
+ - {title: "Open minded community", image: "workshop.jpg", text: "Create an open minded community for self-driving vehicle researchers." }
  - {title: "Attend and be inspired", image: "hackathon.jpg", text: "We strive to engage researchers, engineers and decision makers in a constructive dialogue about self-driving technology, machine intelligence and its symbiosis." }
 
 # Statistic Block
@@ -101,7 +101,7 @@ eventPostalCode: "94085"
 eventAddressCountry: "USA"
 eventStartTime: "2016-04-09T19:00"
 eventDoorTime: "9:15"
-eventEndTime: "2016-04-09T21:30"
+eventEndTime: "2016-04-09T22:00"
 eventPlaceCoordinates: "37.3860986,-122.0364234"
 mapCenterCoordinates: "37.3860986,-122.0364234"
 mapMobileCenterCoordinates: "37.3860986,-122.0364234"
@@ -134,7 +134,7 @@ twitterHashTag: "selfdrivingai"
 #twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
 
 # Partners Block
-organizersTitle: "Organizers"
+organizersTitle: "Host"
 partnersTitle: "Partners"
 partnersC4sponsorsButton: "Become a Partner"
 
@@ -151,10 +151,10 @@ footerBlocks:
  #   - {permalink: "/cod/", text: "Code of Conduct"}
 
 # Ideation
-ideationTitle: "Machine Intelligence in Autonomous Driving"
+ideationTitle: "Machine Intelligence and Self-Driving Vehicles"
 ideationOrganisationsTitle: ""
 organisationsRows:
- - {title: "<h5>Accelerate Self-Driving Intelligence</h5>", image: "wheel.png", details: "Autonomous vehicles are one of the greatest challenges machine intelligence will face in this century. On the other hand, machine intelligence will help us to create safe and efficient next generation vehicles. We want to discuss state-of-the-art methods and techniques in order to accelerate research in machine learning for autonomous driving."}
+ - {title: "<h5>Accelerate Self-Driving Intelligence</h5>", image: "wheel.png", details: "Self-driving vehicles are one of the greatest challenges machine intelligence will face in this century. On the other hand, machine intelligence will help us to create safe and efficient next generation vehicles. We want to discuss state-of-the-art methods and techniques in order to accelerate research in machine learning for autonomous driving."}
  - {title: "<h5>Open Minded and Open-Source Community</h5>", image: "color.png", details: "We want to create an open minded and open-source community for self-driving car researchers. In order to move forward, we firmly believe in exchanging our knowledge and connecting with the local community."}
  - {title: "<h5>Attend and be inspired</h5>", image: "bulb.png", details: "<em>Machine Intelligence in Autonomous Driving</em>, is evening event that strives to engage researchers, engineers and decision makers in a constructive dialogue about self-driving technology, machine intelligence and its symbiosis."}
 

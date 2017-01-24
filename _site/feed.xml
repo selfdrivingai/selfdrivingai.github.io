@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Machine Intelligence in Autonomous Driving</title>
-    <description>Machine Intelligence in Autonomous Driving</description>
+    <title>Machine Intelligence and Self-Driving Vehicles</title>
+    <description>Machine Intelligence and Self-Driving Vehicles</description>
     <link>http://selfdrivingai.org/</link>
     <atom:link href="http://selfdrivingai.org/feed.xml" rel="self" type="application/rss+xml" />
     

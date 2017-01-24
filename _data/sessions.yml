@@ -11,7 +11,7 @@
   speakers: [1]
 -
   id: 200
-  title: "Robotic Interaction"
+  title: "Cars that Coordinate with People"
   description: ""
   subtype: keynote
   speakers: [2]
@@ -24,12 +24,12 @@
 -
   id: 3
   title: "Showcase"
-  description: "Bosch, Otto and Mercedes are showing off their self-driving cars. Touching allowed."
+  description: "Bosch, Otto and Mercedes are showing off their self-driving vehicles. Touching allowed."
   speakers: 
   service: true
 -
   id: 1
   title: "Introduction & Welcome"
-  description: "Let's get started and talk about NextGen Autonomous Vehicles!"
+  description: "Let's get started and talk about NextGen self-driving vehicles!"
   speakers: 
   service: true
