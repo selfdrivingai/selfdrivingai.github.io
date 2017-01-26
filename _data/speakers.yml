@@ -26,26 +26,43 @@
   id: 100
   name: "David"
   surname: "Dao"
-  company: ""
+  company: "Mercedes-Benz Research"
   thumbnailUrl: david.png
   team: true
-  social: 
-    - {name: "site", link: ""}
-  bio: "TBA"
+  bio: "David works on Deep Neural Networks for Self-Driving Cars. Before joining Mercedes-Benz Research, he was a researcher at Broad Institute of MIT and Harvard."
 - 
   id: 101		
   name: "Marius"		
   surname: "Wiggert"		
-  company: "Harvard University"		
-  thumbnailUrl: speaker1.jpg		
-  bio: "TBA"		
+  company: "Mercedes-Benz Research"		
+  thumbnailUrl: marius.jpg		
+  bio: "Marius Wiggert has two Bachelors Degrees, in Engineering Science and in Philosophy, both from Munich. He is now working at Mercedes Benz in Sunnyvale on the Behavioural Architecture and Decision Making in Autonomous Cars."		
   team: true
 -
-  id: 103
+  id: 102
   name: "Sebastian"
   surname: "Bittel"
   title: ""
-  company: ""
+  company: "Mercedes-Benz Research"
+  thumbnailUrl: sebastian.jpg
+  team: true
+  bio: "Sebastian Bittel studied Computer Science at the Karlsruhe Institute of Technology.
+Currently he is working at Mercedes-Benz Research and Development on Machine Learning related topics to autonomous driving."
+-
+  id: 103
+  name: "Chelsea"
+  surname: "Quellette"
+  title: ""
+  company: "Otto"
   thumbnailUrl: speaker1.jpg
   team: true
-  bio: "TBA"
+  bio: ""
+-
+  id: 104
+  name: "Angela"
+  surname: "Klein"
+  title: ""
+  company: "Bosch"
+  thumbnailUrl: speaker1.jpg
+  team: true
+  bio: ""

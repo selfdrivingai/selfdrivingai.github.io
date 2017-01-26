@@ -1,6 +1,6 @@
 -
   date: "2016-01-30"
-  dateReadable: "6th February"
+  dateReadable: "February 6"
   tracks:
     - {title: "Machine Intelligence and Self-Driving Vehicles", color: "#90be4e"}
   timeslots:
@@ -26,6 +26,6 @@
     }
     - {
         startTime: "21:10",
-        endTime: "22:00",
+        endTime: "22:30",
         sessionIds: [3]
     }

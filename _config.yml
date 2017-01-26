@@ -50,7 +50,7 @@ navigationLinks:
  - {permalink: "/schedule/", text: "Schedule"}
  - {permalink: "/speakers/", text: "Speakers"}
  #- {permalink: "/about/", text: "About the meetup"}
- #- {permalink: "/team/", text: "Team"}
+ - {permalink: "/team/", text: "Organizers"}
  # - {permalink: "/ideation/", text: "Art Gallery"}
 bottomNavigationLinks:
  #- {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
@@ -60,7 +60,7 @@ rightNavigationButtons:
 # Hero Block
 heroImage: "hero.jpg"
 heroTitle: "<h4>Machine Intelligence and Self-Driving Vehicles</h4> <br>"
-eventDate: "<h5>A Meetup Series hosted by Mercedes-Benz, Bosch and Otto</h5><br><h5>6th February 2017 - 7pm</h5>"
+eventDate: "<h5>February 6 2017, 7 - 10:30pm</h5>"
 typeoutTextValues: '""'
 typeoutFallback: ""
 heroButtons:
@@ -68,7 +68,7 @@ heroButtons:
  #- {permalink: "/#tickets", text: "Buy tickets"}
 
 # About Block
-aboutTitle: "<h3>About the meetup</h3>"
+aboutTitle: "<h3>About the Meetup Series</h3>"
 aboutBlock:
  - {title: "Self-driving intelligence", image: "conference.jpg", text: "Explore and discuss state-of-the-art research in order to accelerate Machine Learning for Self-Driving Vehicles." }
  - {title: "Open minded community", image: "workshop.jpg", text: "Create an open minded community for self-driving vehicle researchers." }
@@ -88,20 +88,20 @@ latestNewsTitle: "Latest news"
 rockstarSpeakersImage: "rockstar-speakers.jpg"
 rockstarSpeakersCount: 2
 rockstarSpeakersTitle: "Our rockstar speakers"
-rockstarSpeakersButtonText: "See all speakers"
+rockstarSpeakersButtonText: "Learn more"
 
 # Location Block
 locationBlockTitle: "Location"
 eventLocationName: "Mercedes-Benz Research & Development North America"
 eventLocationLink: ""
 eventStreetAddress: "309 N Pastoria Ave"
-eventAddressLocality: "Sunnyvale, CA"
+eventAddressLocality: "Sunnyvale, CA 94085"
 eventAddressLocalityRegion: ""
 eventPostalCode: "94085"
 eventAddressCountry: "USA"
-eventStartTime: "2016-04-09T19:00"
-eventDoorTime: "9:15"
-eventEndTime: "2016-04-09T22:00"
+eventStartTime: ""
+eventDoorTime: ""
+eventEndTime: ""
 eventPlaceCoordinates: "37.3860986,-122.0364234"
 mapCenterCoordinates: "37.3860986,-122.0364234"
 mapMobileCenterCoordinates: "37.3860986,-122.0364234"
@@ -140,6 +140,10 @@ partnersC4sponsorsButton: "Become a Partner"
 
 # Footer
 socialLinks:
+#  - {link: "https://plus.google.com/+MercedesBenz", icon: "google-plus"}
+ - {link: "https://twitter.com/mbrdna", icon: "twitter"}
+ - {link: "https://www.facebook.com/MBRDNA/", icon: "facebook"}
+
 footerBlocks:
  -
   title: ""
@@ -167,7 +171,7 @@ discusShortName: ""
 showSessions: true
 
 # Team Block
-teamBlockTitle: "Our Team"
+teamBlockTitle: "Organizers"
 aboutUs: ""
 
 # Hackathon

@@ -31,5 +31,5 @@
   id: 1
   title: "Introduction & Welcome"
   description: "Let's get started and talk about NextGen self-driving vehicles!"
-  speakers: 
-  service: true
+  subtype: keynote
+  speakers: [100, 101]
