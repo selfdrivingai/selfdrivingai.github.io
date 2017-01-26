@@ -64,7 +64,7 @@ eventDate: "<h5>February 6 2017, 7 - 10:30pm</h5>"
 typeoutTextValues: '""'
 typeoutFallback: ""
 heroButtons:
- - {link: "", text: "Registration opens soon!"}
+ - {link: "https://www.eventbrite.com/e/machine-intelligence-self-driving-vehicles-tickets-31492033520", text: "Register now!"}
  #- {permalink: "/#tickets", text: "Buy tickets"}
 
 # About Block
@@ -141,8 +141,10 @@ partnersC4sponsorsButton: "Become a Partner"
 # Footer
 socialLinks:
 #  - {link: "https://plus.google.com/+MercedesBenz", icon: "google-plus"}
+ - {link: "https://www.linkedin.com/company-beta/3880546/?pathWildcard=3880546", icon: "linkedin"}
  - {link: "https://twitter.com/mbrdna", icon: "twitter"}
  - {link: "https://www.facebook.com/MBRDNA/", icon: "facebook"}
+
 
 footerBlocks:
  -
