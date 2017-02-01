@@ -2,7 +2,7 @@
   id: 1
   name: "Jan"
   surname: "Becker"
-  company: "Faraday Future"
+  company: "Faraday Future & Stanford University"
   title: "Senior Director Automated Driving"
   thumbnailUrl: jan.jpg
   team: true
@@ -29,7 +29,7 @@
   company: "Mercedes-Benz Research"
   thumbnailUrl: david.png
   team: true
-  bio: "David works on Deep Neural Networks for Self-Driving Cars. Before joining Mercedes-Benz Research, he was a researcher at the Broad Institute of MIT and Harvard."
+  bio: "David works on Deep Neural Networks for Self-Driving Cars. Before joining Mercedes-Benz Research, he was a graduate student at the Broad Institute of MIT and Harvard and a visiting researcher at CERN."
 - 
   id: 101		
   name: "Marius"		
@@ -46,8 +46,7 @@
   company: "Mercedes-Benz Research"
   thumbnailUrl: sebastian.jpg
   team: true
-  bio: "Sebastian Bittel studied Computer Science at the Karlsruhe Institute of Technology.
-Currently he is working at Mercedes-Benz Research and Development on Machine Learning related topics to autonomous driving."
+  bio: "Sebastian Bittel studied Computer Science at the Karlsruhe Institute of Technology. Currently he is working at Mercedes-Benz Research and Development on Machine Learning related topics to autonomous driving."
 -
   id: 103
   name: "Chelsea"
@@ -61,6 +60,15 @@ Currently he is working at Mercedes-Benz Research and Development on Machine Lea
   id: 104
   name: "Angela"
   surname: "Klein"
+  title: ""
+  company: "Bosch"
+  thumbnailUrl: speaker1.jpg
+  team: true
+  bio: ""
+-
+  id: 105
+  name: "Moritz"
+  surname: "Dechant"
   title: ""
   company: "Bosch"
   thumbnailUrl: speaker1.jpg
