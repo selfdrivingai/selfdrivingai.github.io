@@ -2,7 +2,7 @@
   id: 1
   name: "Jan"
   surname: "Becker"
-  company: "Faraday Future & Stanford University"
+  company: "Stanford University & Faraday Future"
   title: "Senior Director Automated Driving"
   thumbnailUrl: jan.jpg
   team: true
