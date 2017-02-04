@@ -64,8 +64,8 @@ eventDate: "<h5>February 6 2017, 7 - 10:30pm</h5>"
 typeoutTextValues: '""'
 typeoutFallback: ""
 heroButtons:
- - {link: "https://www.eventbrite.com/e/machine-intelligence-self-driving-vehicles-tickets-31492033520", text: "Register now!"}
- #- {permalink: "/#tickets", text: "Buy tickets"}
+ - {link: "https://www.eventbrite.com/e/machine-intelligence-self-driving-vehicles-tickets-31492033520", text: "Sold out!"}
+ - {link: "https://www.facebook.com/MBRDNA/", text: "Go to Livestream!"}
 
 # About Block
 aboutTitle: "<h3>About the Meetup Series</h3>"

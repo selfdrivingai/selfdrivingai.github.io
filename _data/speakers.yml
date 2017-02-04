@@ -53,18 +53,18 @@
   surname: "Quellette"
   title: ""
   company: "Otto"
-  thumbnailUrl: speaker1.jpg
+  thumbnailUrl: chelsea.jpg
   team: true
-  bio: ""
+  bio: "Chelsea is a Silicon Valley native who absolutely loves self-driving technology. She is currently Recruiting Program Manager at Otto, part of the Uber Advanced Technologies Group, working with amazing people on self-driving trucks"
 -
   id: 104
   name: "Angela"
   surname: "Klein"
   title: ""
   company: "Bosch"
-  thumbnailUrl: speaker1.jpg
+  thumbnailUrl: angela.jpg
   team: true
-  bio: ""
+  bio: "Angela Klein is an alumna of UC Berkeley and the Project Lead for the Bosch Palo Alto Autonomous Driving Group where she gets to work with a great group of Scientists, Roboticists, and Engineers on the transportation of tomorrow."
 -
   id: 105
   name: "Moritz"
