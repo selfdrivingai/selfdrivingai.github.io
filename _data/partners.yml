@@ -1,7 +1,8 @@
 - 
   group: ""
   elements: 
-    - {name: "Otto", description: "", link: "http://ot.to/" ,imageUrl: "otto.png"}
+    #- {name: "Otto", description: "", link: "http://ot.to/" ,imageUrl: "otto.png"}
+    - {name: "Uber ATG", description: "", link: "http://uber.com", imageUrl: "uber.png"}
     - {name: "Bosch", description: "", link: "http://www.bosch-home.com/" ,imageUrl: "bosch.png"}
     #- {name: "Udacity", description: "", link: "http://udacity.com", imageUrl: "udacity.png"}
 

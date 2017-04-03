@@ -52,10 +52,10 @@
   name: "Chelsea"
   surname: "Ouellette"
   title: ""
-  company: "Otto"
+  company: "Uber ATG"
   thumbnailUrl: chelsea.jpg
   team: true
-  bio: "Chelsea is a Silicon Valley native who absolutely loves self-driving technology. She is currently Recruiting Program Manager at Otto, part of the Uber Advanced Technologies Group, working with amazing people on self-driving trucks"
+  bio: "Chelsea is a Silicon Valley native who loves self-driving technology. She is currently Recruiting Program Manager at the Uber Advanced Technologies Group in San Francisco (formerly Otto)"
 -
   id: 104
   name: "Angela"
@@ -74,3 +74,12 @@
   thumbnailUrl: moritz.jpg
   team: true
   bio: "Moritz is leading the system integration team for Bosch automated driving in Palo Alto. He has earned a joint degree in electrical engineering and business administration from TU Darmstadt in close collaboration with Seoul National University."
+-
+  id: 106
+  name: "Zoe"
+  surname: "Landgraf"
+  title: ""
+  company: "Mercedes-Benz Research"
+  thumbnailUrl: zoe.jpg
+  team: true
+  bio: "Zoe works on Machine Learning related topics in Autonomous Cars. She has a Master Degree on Computing Science from Imperial College London and a Bachelor in Physics from the University of Manchester and the National University of Singapore."
