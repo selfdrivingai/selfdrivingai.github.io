@@ -74,12 +74,3 @@
   thumbnailUrl: moritz.jpg
   team: true
   bio: "Moritz is leading the system integration team for Bosch automated driving in Palo Alto. He has earned a joint degree in electrical engineering and business administration from TU Darmstadt in close collaboration with Seoul National University."
--
-  id: 106
-  name: "Zoe"
-  surname: "Landgraf"
-  title: ""
-  company: "Mercedes-Benz Research"
-  thumbnailUrl: zoe.jpg
-  team: true
-  bio: "Zoe works on Machine Learning related topics in Autonomous Cars. She has a Master Degree on Computing Science from Imperial College London and a Bachelor in Physics from the University of Manchester and the National University of Singapore."
