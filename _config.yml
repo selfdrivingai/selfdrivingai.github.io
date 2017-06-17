@@ -40,7 +40,7 @@ googleAnalyticsSiteUrl: "selfdrivingai.org"
 # Documents
 #c4pUrl: "https://bit.ly/dfua-c4p"
 #c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
-c4sponsorsUrl: "mailto: daviddao@daimler.com"
+c4sponsorsUrl: "mailto: david.dao@daimler.com"
 seaturl: ""
 
 # Navigation
@@ -51,7 +51,7 @@ navigationLinks:
  - {permalink: "/speakers/", text: "Speakers"}
  #- {permalink: "/about/", text: "About the meetup"}
  - {permalink: "/team/", text: "Organizers"}
- # - {permalink: "/ideation/", text: "Art Gallery"}
+ - {permalink: "/previous_event/", text: "Previous Event"}
 bottomNavigationLinks:
  #- {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
 rightNavigationButtons:
@@ -60,12 +60,12 @@ rightNavigationButtons:
 # Hero Block
 heroImage: "hero.jpg"
 heroTitle: "<h4>Machine Intelligence and Self-Driving Vehicles</h4> <br>"
-eventDate: "<h5>February 6 2017, 7 - 10:30pm</h5>"
+eventDate: "<h5>June 20 2017, 7 - 9:30pm</h5>"
 typeoutTextValues: '""'
 typeoutFallback: ""
 heroButtons:
- - {link: "https://www.eventbrite.com/e/machine-intelligence-self-driving-vehicles-tickets-31492033520", text: "Register now!"}
- #- {permalink: "/#tickets", text: "Buy tickets"}
+ - {link: "https://selfdrivingai.eventbrite.com", text: "Sold out!"}
+ - {link: "https://www.facebook.com/MBRDNA/", text: "Go to Livestream!"}
 
 # About Block
 aboutTitle: "<h3>About the Meetup Series</h3>"
@@ -77,7 +77,7 @@ aboutBlock:
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "150", specialCharacter: "+", info: "self-driving enthusiasts", detail: "connect, engage and create together"}
+ - {count: "200", specialCharacter: "+", info: "self-driving enthusiasts", detail: "connect, engage and create together"}
  - {count: "2", specialCharacter: "", info: "speakers", detail: "world-leading experts and pioneers"}
  - {count: "1", specialCharacter: "", info: "evening", detail: "delve into one of the most exciting technologies of our time"}
 
@@ -180,8 +180,46 @@ aboutUs: ""
 hackathonTitle: "Hackathon"
 enableHackathon: false
 
-# Hackathon About Block
-aboutHackathonTitle: "<h3>About the meetup</h3>"
+aboutHackathonTitle: "Engineering Automation: Introducing the Self-Driving AI Meetup Series <br> <h5>by Chelsea Ouellette</h5>"
+hackathonRows:
+#  - {title: "", image: "", details: "In February 2017, Uber ATG, Mercedes Benz Research & Development North America, and Bosch Research and Technology Center came together to host the inaugural session of the Self-Driving AI Meetup series at Mercedes Benz Research & Development North America in Sunnyvale, California. The event, titled Machine Learning and Self Driving Vehicles was attended by over 150 people, with almost 2,000 tuning in via Facebook Live. The new meetup series was founded to foster an open, collaborative space for members of the artificial intelligence (AI) community to engage, explore, and discuss state-of-the-art research in machine learning for self-driving vehicles."} 
+ - {title: "Reflecting on the Past and Future of Self-Driving Cars", image: "talk1.jpg", details: "In February 2017, Uber ATG, Mercedes Benz Research & Development North America, and Bosch Research and Technology Center came together to host the inaugural session of the Self-Driving AI Meetup series at Mercedes Benz Research & Development North America in Sunnyvale, California. The event, titled Machine Learning and Self Driving Vehicles was attended by over 150 people, with almost 2,000 tuning in via Facebook Live. The new meetup series was founded to foster an open, collaborative space for members of the artificial intelligence (AI) community to engage, explore, and discuss state-of-the-art research in machine learning for self-driving vehicles.<br><br>
+ Jan Becker, lecturer at Stanford University and senior director of Automated Driving at Faraday Future, and Anca Dragan, principal of the InterACT Laboratory at UC Berkeley, both delivered presentations on the relationship between machine learning and self-driving technology during the event.<br><br> In his presentation, titled “From Research to Product Development,” Becker discussed the intersection of AI and culture, walking the audience through a history of the representation of self-driving cars in advertising, mass media, and politics. According to Becker, the concept of self-driving vehicles can be traced back to a January 5, 1918 Scientific American article depicting a self-driving concept car. In the 1950s, Becker suggests, the references of self-driving vehicles in popular culture ballooned, with some media outlets suggesting this technology would be fueled by radar and analytics.<br><br> Referencing an informational video from the 1950s on self-driving cars, Becker notes that, “considering that [this content] was made over 60 years ago, these are actually pretty accurate depictions. Some of these things are true today.” When the 1960s arrived, Becker added, research on the technology sped up, too, including the debut of Stanford’s Artificial Intelligence Laboratory Cart, a small robot cart designed by the university and one of the first functional self-driving technologies.<br><br> At the close of his presentation, Becker addressed what needs to be done in order to bring viable self-driving products to market, including ensuring that self-driving technology is reliable and can be easily adopted by humans."}
+ - {title: "Building Robot Cars with Humans in Mind", image: "talk2.jpg", details: "Dragan’s presentation, titled “Cars that Coordinate with People,” addressed the ways in which robots use machine learning to interact with people to predict behavior, particularly as it relates to self-driving cars. During her talk, Dragan offered examples of case studies from her lab, including a scenario in which a self-driving car accurately predicted the behavior of a human-controlled vehicle driving nearby.<br><br>“What I’ve learned in robotics is that we care about having robots reach their objectives while obeying task constraints, like we don’t want cars to go off the road,” Dragan said. “What we care about in my lab is a particular version of this problem where the robot can’t do this in isolation but it actually needs to -- whether it wants to or not -- interact with people.”"}
+ - {title: "Q&A: UC Berkeley's Anca Dragan on Robot Cars", image: "anca.jpg", details: " After the meetup, we spoke with Dragan to learn more about the motives behind her decision to pursue AI as a career, her lab’s current research, and where she thinks “robot car” development is headed in the future.
+<br><br>
+<b>As a young girl, what most piqued your interest in pursuing a career in robotics and human-robot interaction?</b> 
+<br><br>
+I had no idea I would end up in this area when I was growing up — I had only heard of robots in cartoons and movies, and I didn't even know if they existed in real life! But, I grew up in Romania where math is actually considered “cool.” I hope we will see that more in the U.S. as well. I really started liking math in middle school, then I got into computer science as a more applied version of math.
+<br><br>
+I came across AI as sub-area, and it was really fascinating to think of algorithms for agents that can make their own intelligent decisions, plus it sounded really useful — like it could make it easier for us to have more resources and a higher quality of life. Only in grad school, when I was working on robot motion planning, did I take a step back and think, ”hmmm.. the ultimate goal is for these robots to help people. I wonder what implications this has for the algorithms we're building...” It turned out that was a very rich question to explore!
+<br><br>
+<b>How do you define your line of work, algorithmic human-robot interaction? How does it differ from other forms of AI?</b>
+<br><br>
+Algorithmic human-robot interaction is about robotics algorithms that go beyond function (like driving on the road and avoiding collision) and explicitly deal with interaction (like coordinating with pedestrians and human drivers, keeping the passengers comfortable, and so on). Regardless of the application, we have found that robotics algorithms make implicit assumptions about people that are not quite true. For instance, a robot cleaning your table will treat you as an obstacle that happens to be moving, but of course you are also making decisions about what to do, adapting to the robot, and have preferences about how the job should get done. Or when a robot learns a task from a person, it tends to assume that the person will just be able to give it a close-to-optimal demonstration of how exactly it should move, but of course in reality people are good at providing some types of guidance but not others. Algorithmic human-robot interaction is about generalizing these algorithms to the interaction setting, where they account for what people want and how they will act. 
+<br><br>
+<b>Your research with the InterACT Lab focuses on moving beyond building robots that solely respond to the physical human state, and into building machines that can predict a human's internal state. How does this philosophy guide your work with self-driving cars?</b>
+<br><br>
+This is definitely one of the areas of priority for us. Human internal states, like the person's beliefs and preferences, are central to getting these interactions right, but are difficult to estimate since the robot can't just access this information directly. With cars, this boils down to estimating the driving style of another driver, what a pedestrian plans to do, or how a passenger actually wants the car to drive. 
+<br><br>
+<b>What elements of machine learning are most significant in the development of safe, efficient, self-driving vehicles?</b>
+<br><br>
+There is a lot of debate right now as to how machine learning can be most useful. Some approaches learn to map sensor inputs directly to control outputs for the car, others impose a little more structure and separate perception from action decisions. The jury is still out, but I think when it comes to interaction and safety, machine learning can really help in updating and customizing predictive models about the physical world and about people.  
+<br><br>
+<b>In your opinion, what are the key challenges facing the advancement of the self-driving cars industry so far as it relates to human-car interaction?</b>
+<br><br>
+I am a little biased, but one thing that we've found is that people don't decide what to do in a vacuum, but instead, respond to the actions of others. This makes an autonomous car's job difficult because it needs to consider and address the effects and influence of its actions on others. We have been working hard over the last year or so on tackling this challenge, but there is still much to do. 
+<br><br><br><br><br>
+<img width='100%' src='/img/hackathon/group.jpg'></img>
+<br>
+<em>The organizers and speakers of February’s meetup pose for a picture after the event. From left: Ilyas Atishev (MBRDNA), Marius Wiggert (MBRDNA), Anca Dragan, Axel Gern (Head of Autonomous Driving, MBRDNA), Jan Becker (Stanford University, Faraday Future), David Dao (MBRDNA), Chelsea Ouellette (Uber ATG), Angela Klein (Bosch), and Moritz Dechant (Bosch).
+Photo: MBRDNA</em>
+<br><br><br>
+If this topic interests you, join our <a href='https://www.meetup.com/de-DE/UberATG-SF-Meetup-for-Self-Driving-Vehicle-Enthusiasts/'>meetup group</a> to learn about upcoming sessions of our Self-Driving AI Meetups in 2017.
+<br><br>
+Chelsea Ouellette is a program manager on Uber ATG’s recruiting team. 
+
+"}
 # Hackathon Judges Block (We dont need)
 judgesImage: "judges.jpg"
 judgesTitle: "Judges"

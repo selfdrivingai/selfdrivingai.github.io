@@ -1,37 +1,80 @@
 - 
   id: 1
-  name: "Jan"
-  surname: "Becker"
-  company: "Faraday Future"
-  title: "Senior Director Automated Driving"
-  thumbnailUrl: jan.jpg
+  name: "Uwe"
+  surname: "Franke"
+  company: "Daimler AG"
+  title: "Head of Image Understanding"
+  thumbnailUrl: franke.png
   team: true
   rockstar: true
   social: 
     - {name: "site", link: ""}
-  bio: "Dr. Jan Becker is the Senior Director for Automated Driving at Faraday & Future, Inc. Before joining FF in 2016, Dr. Becker was Director Automated Driving at Robert Bosch LLC. He is appointed lecturer at Stanford University since 2010 and has more than 18 years of experience in the research and development of automated driving. Dr. Becker received his doctorate degree from Technical University of Braunschweig, Germany and master degrees from both the State University of New York and the Technical University of Darmstadt, Germany."
+  bio: "Uwe Franke received the Ph.D. degree in electrical engineering from the Technical University of Aachen, Germany, in 1988 for his work on content based image coding. Since 1989 he has been with Daimler Research and Development and has been constantly working on the development of vision based driver assistance systems. He developed Daimler’s lane departure warning system introduced in 2000. Since 2000 he has been head of Daimler’s Image Understanding Group. The stereo technology developed by his group is the basis for the Mercedes Benz stereo camera system introduced in 2013. Recent work is on image understanding for autonomous driving, in particular Deep Neural Networks. He was nominated for the “Deutscher Zukunftspreis”, Germany’s most prestigious award for Technology and Innovation given by the German President and awarded the Karl-Heinz Beckurts Prize 2012."
 - 
   id: 2
-  name: "Anca"
-  surname: "Dragan"
-  company: "UC Berkeley"
-  title: "Professor"
-  thumbnailUrl: anca.jpg
+  name: "Wendy"
+  surname: "Ju"
+  company: "Stanford University"
+  title: "Executive Director, Center for Design Research"
+  thumbnailUrl: wendy.png
   team: true
   rockstar: true
   social: 
     - {name: "site", link: ""}
-  bio: "Anca runs the InterACT lab, focusing on enabling robots to work with, around, and in support of people. Her goal is for robots to autonomously generate their behavior in a way that moves beyond functionality and formally accounts for interaction with humans. This combines optimal control, machine learning, and cognitive science, with applications in collaborative manipulation and autonomous driving. Anca got her PhD in the Robotics Institute at Carnegie Mellon University on planning intent-expressive robot motion."
+  bio: "Wendy Ju is Executive Director of Interaction Design Research at Stanford University's Center for Design Research. Wendys research investigates novel human-machine interaction, particularly human-robot interaction and autonomous car interfaces. Since receiving her PhD from Stanford in 2008, Wendy has been innovating curriculum at the intersection of technology, design and the arts. At CDR, Wendy aims to increase awareness and appreciation for the role of Design Research and to make the Bay Area the epicenter for design intellectualism and discourse. She is also Associate Professor of Interaction Design in the Graduate Design Program at California College of the Arts in San Francisco and Associate Professor in the Graduate Design Program at California College of the Arts. "
 - 
-  id: 100
-  name: "David"
-  surname: "Dao"
-  company: "Mercedes-Benz Research"
-  thumbnailUrl: david.png
+  id: 100	
+  name: "David"		
+  surname: "Dao"		
+  company: "Mercedes-Benz Research"		
+  thumbnailUrl: david.png		
+  bio: "David is a PhD student at ETH Zurich, working on Deep Reinforcement Learning. Before joining Mercedes-Benz Research, he was a graduate student at the Broad Institute of MIT and Harvard and a visiting researcher at CERN."
   team: true
-  bio: "David works on Deep Neural Networks for Self-Driving Cars. Before joining Mercedes-Benz Research, he was a researcher at the Broad Institute of MIT and Harvard."
 - 
-  id: 101		
+  id: 101
+  name: "Arah"
+  surname: "Go"
+  company: "Mercedes-Benz Research"
+  thumbnailUrl: arah.jpg
+  team: true
+  bio: "Arah Go is with the Communications and Public Relations team at Mercedes-Benz Research & Development. She holds a degree in Communications and Media Studies from UC Berkeley and enjoys long walks to the fridge at night."
+-
+  id: 102
+  name: "Richard"
+  surname: "Gruner"
+  company: "Mercedes-Benz Research"
+  thumbnailUrl: richard.jpg
+  team: true
+  bio: "As an engineer at Mercedes-Benz in Sunnyvale Richard is interested in bringing self-driving cars on the road with the power of machine learning. He got his tech skills and passion for entrepreneurship during his studies in Munich, Vancouver, and Paris."
+-
+  id: 107
+  name: "Chelsea"
+  surname: "Ouellette"
+  title: ""
+  company: "Uber ATG"
+  thumbnailUrl: chelsea.jpg
+  team: true
+  bio: "Chelsea is a Silicon Valley native who loves self-driving technology. She is currently Recruiting Program Manager at the Uber Advanced Technologies Group in San Francisco (formerly Otto)"
+-
+  id: 108
+  name: "Angela"
+  surname: "Klein"
+  title: ""
+  company: "Bosch"
+  thumbnailUrl: angela.jpg
+  team: true
+  bio: "Angela Klein is an alumna of UC Berkeley and the Project Lead for the Bosch Palo Alto Autonomous Driving Group where she gets to work with a great group of Scientists, Roboticists, and Engineers on the transportation of tomorrow."
+-
+  id: 109
+  name: "Moritz"
+  surname: "Dechant"
+  title: ""
+  company: "Bosch"
+  thumbnailUrl: moritz.jpg
+  team: true
+  bio: "Moritz is leading the system integration team for Bosch automated driving in Palo Alto. He has earned a joint degree in electrical engineering and business administration from TU Darmstadt in close collaboration with Seoul National University."
+- 
+  id: 103		
   name: "Marius"		
   surname: "Wiggert"		
   company: "Mercedes-Benz Research"		
@@ -39,30 +82,29 @@
   bio: "Marius Wiggert has two Bachelors Degrees, in Engineering Science and in Philosophy, both from Munich. He is now working at Mercedes Benz in Sunnyvale on the Behavioural Architecture and Decision Making in Autonomous Cars."		
   team: true
 -
-  id: 102
+  id: 106
   name: "Sebastian"
   surname: "Bittel"
   title: ""
   company: "Mercedes-Benz Research"
   thumbnailUrl: sebastian.jpg
   team: true
-  bio: "Sebastian Bittel studied Computer Science at the Karlsruhe Institute of Technology.
-Currently he is working at Mercedes-Benz Research and Development on Machine Learning related topics to autonomous driving."
+  bio: "Sebastian Bittel studied Computer Science at the Karlsruhe Institute of Technology. Currently he is working at Mercedes-Benz Research and Development on Machine Learning related topics to autonomous driving."
 -
-  id: 103
-  name: "Chelsea"
-  surname: "Quellette"
+  id: 105
+  name: "Zoe"
+  surname: "Landgraf"
   title: ""
-  company: "Otto"
-  thumbnailUrl: speaker1.jpg
+  company: "Mercedes-Benz Research"
+  thumbnailUrl: zoe.jpg
   team: true
-  bio: ""
+  bio: "Zoe works on Machine Learning related topics in Autonomous Cars. She has a Master Degree on Computing Science from Imperial College London and a Bachelor in Physics from the University of Manchester and the National U"
 -
   id: 104
-  name: "Angela"
-  surname: "Klein"
+  name: "Qi"
+  surname: "Fu"
   title: ""
-  company: "Bosch"
-  thumbnailUrl: speaker1.jpg
+  company: "Mercedes-Benz Research"
+  thumbnailUrl: qifu.jpg
   team: true
   bio: ""

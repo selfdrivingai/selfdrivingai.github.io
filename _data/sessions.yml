@@ -5,13 +5,13 @@
   service: true
 -
   id: 100
-  title: "Automated, Connected, Electric Vehicles"
+  title: "Baby, you can drive my car - Image Understanding for Autonomous Driving at Daimler"
   description: ""
   subtype: keynote
   speakers: [1]
 -
   id: 200
-  title: "Cars that Coordinate with People"
+  title: "Theatre of the Car: Anticipating Human Interaction with Autonomous Vehicles"
   description: ""
   subtype: keynote
   speakers: [2]
@@ -24,7 +24,7 @@
 -
   id: 3
   title: "Showcase"
-  description: "Bosch, Otto and Mercedes are showing off their self-driving vehicles. Touching allowed."
+  description: "Bosch, Udacity and Mercedes are showing off their self-driving vehicles. Touching allowed. And there will be delicious food and drinks!"
   speakers: 
   service: true
 -
@@ -32,4 +32,4 @@
   title: "Introduction & Welcome"
   description: "Let's get started and talk about NextGen self-driving vehicles!"
   subtype: keynote
-  speakers: [100, 101]
+  speakers: [100, 101, 102]
